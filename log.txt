@@ -1,0 +1,9 @@
+2
+logmode activated!
+turi_bot#8140 is now running
+2
+logmode activated!
+turi_bot#8140 is now running
+ampir3#8697 sent ip turi in turi-bot
+MoviePy - Writing audio in res.mp3
+MoviePy - Done.
