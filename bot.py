@@ -13,11 +13,11 @@ FULL_LYRICS = 'Turi ip ip ip Ip ip ip ip tsha ik Ip tura ip ik Eugh eugh isha ik
 devmode = False
 logmode = False
 
-DEV_TOKEN = 'MTAxNjYzMjI4MDU5ODQ1NDMyMg.G2HwJd.iVMKhZ6ca4U8Nz3eb-kf9BtUbWe0HRNPIB_tik'
+DEV_TOKEN = '<token>'
 
 
 def run_bot():
-    TOKEN = 'MTAxNjMyNjk1MTE5NzIyMDkwNA.GmCi9Q.F25a1FxwBtyOxGbd-3PgO0__Wr1CzrkWk73Z08'
+    TOKEN = '<token>'
     client = discord.Bot(intents=discord.Intents.all())
 
     @client.event
